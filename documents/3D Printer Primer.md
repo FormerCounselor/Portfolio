@@ -54,7 +54,7 @@ Post-process, or simply post, is very simple with FFF printers. Remove the print
 
 SLA printers use UV resin and a UV LED panel to construct the model. UV resin, commonly known as just resin, hardens when exposed to UV light. SLA printers invert the model, with the build plate rising out of the vat as each layer is constructed. A vat is a wide, shallow container that holds the UV resin, with a FEP sheet as a transparent bottom that allows light to pass through a glass bottom, and cure the UV resin. A FEP sheet is a specially engineered sheet of plastic specifically for resin printers.
 
-SLA Image
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/SLA%20Illustration.png" alt="Typical Stereolithography Printer" width="927" height="1038">
 
 #### How it Works
 

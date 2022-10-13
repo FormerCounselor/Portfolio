@@ -29,7 +29,7 @@ FFF printers use filament to create the model. Filament is a cord formed from pl
 #### How it Works
 Filament is fed into the extruder, and exits into flexible plastic tubing called a Bowden Tube. The Bowden Tube guides the filament into the heat sink, through the heat break, and exits the nozzle. The heat break is similar to an hourglass shape, and is designed to isolate the heat used to melt the filament. The melted filament is then expelled onto the build plate in the shape of the model. 
 
-FFF Hotend Image
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/FFF%20Hotend%20Cutaway.png" alt="FFF Hotend Cutaway" width="
 
 #### Unboxing and Assembly
 

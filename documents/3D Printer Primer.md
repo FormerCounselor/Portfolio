@@ -60,6 +60,8 @@ SLA printers use UV resin and a UV LED panel to construct the model. UV resin, c
 
 The build plate submerges itself in the resin, stopping one layer’s width above the FEP sheet. The high resolution UV LED turns on, projecting an image shaped exactly how the first layer looks. The area from the build plate to the FEP sheet is cured in a shape identical to the image projected. The newly cured layer attaches itself to the build plate during this process. The printer lifts the build plate and partially printed model a few centimeters out of the resin. The bottom of the most recently printed layer serves as the new build plate, and the process repeats until the model is finished.
 
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/SLA%20Build%20Process.png" alt="How SLA printers construct the model" width="927" height="1038">
+
 #### Unboxing and Assembly
 Attach the vat on top of the transparent glass panel. Attach the build plate to the build arm. Pour UV resin into the vat.
 

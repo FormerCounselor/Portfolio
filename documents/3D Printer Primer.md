@@ -33,8 +33,6 @@ To construct the model, the nozzle makes one layer at a time, laying down filame
 
 <img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/FFF%20Hotend%20Cutaway.png" alt="FFF Hotend Cutaway" width="927" height="1038">
 
-The hotend 
-
 #### Unboxing and Assembly
 
 FFF printers come partially assembled. Partially assembled means that the printer comes as several individual pieces, and assembly must be completed after purchase. All needed tools are included. For additional assistance beyond the instructions, there is a large 3D printing community on YouTube. Assembly and how to maintain printers are popular topics. The specifics of assembling a printer is beyond the scope of this document.

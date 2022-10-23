@@ -4,7 +4,7 @@ This topic explains the basics of 3D printing, it is for those unfamiliar with t
 
 ### General Printer Terms
 
-The type of 3D printer that will best suit your needs depends on the model being made. Models, commonly called prints, are the object that the printer creates. The terms model and print may be used interchangeably in the document.
+Models, commonly called prints, are the object that the printer creates. The terms model and print may be used interchangeably in the document.
 
 Printers use a program called a slicer. A slicer program takes the print, converts it into hundreds of tiny layers, and creates one of two types of instruction files that the printer can understand. The height of those layers is dependent on the resolution of the printer.
 
@@ -27,7 +27,7 @@ FFF printers use filament to create the model. Filament is a cord formed from pl
 <img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/Ender%203.png" alt="Typical Fused Filament Fabrication Printer" width="905" height="1119">
 
 #### How it Works
-Filament is fed into the extruder, and exits into flexible plastic tubing called a Bowden Tube. The Bowden Tube guides the filament into the hotend. The hotend is comprised of the heat sink, the heat break, and the nozzle. The heat break is similar to an hourglass shape, and is designed to isolate the heat used to melt the filament. The melted filament is then expelled onto the build plate in the shape of the model. 
+Filament is fed into the extruder, and exits into flexible plastic tubing called a Bowden Tube. The Bowden Tube guides the filament into the hotend. The hotend is comprised of the heat block, heat break, heat sink, and the nozzle. The heat block contains the heater cartridge and the thermistor. The heat break is similar to an hourglass shape, and is designed to isolate the heat used to melt the filament. The heat sink keeps filament cool until the filament reaches the nozzle. The melted filament is then expelled onto the build plate.
 
 To construct the model, the nozzle makes one layer at a time, laying down filament in a pre-determined path along the X and Y axis. When the current layer finishes, the printer raises the nozzle along the Z axis by one layer, then begins printing the next layer.
 
@@ -41,7 +41,7 @@ FFF printers come partially assembled. Partially assembled means that the printe
 
 Place your model’s file into the slicer software of your choice, orient the model as desired, then slice the file. The slicer generates an instruction file. Load the sliced file onto an SD card, and insert that card into the printer. Clean the build plate with Isopropyl alcohol, commonly known as IPA, and wipe it with a clean, lint-free cloth. Pre-heat the nozzle to the manufacturer’s recommended temperature for the filament, and preheat the build plate to the recommended temperature so that the print will stick to the surface. 
 
-Level the build plate. It is important to level the build plate AFTER it is at printing temperature, as leveling before heat expansion can result in a flawed print. A build plate must be leveled with respect to the printer’s frame, not the surface the printer is resting on. Select the model’s instruction file loaded onto the SD card from earlier, then print.
+Level the build plate by rotating the knobs under the build plate. Many video guides for leveling the build plate are available on YouTube. The specifics of leveling a build plate is beyond the scope of this document. Select the model’s instruction file loaded onto the SD card from earlier, then print.
 
 #### Troubleshooting
 

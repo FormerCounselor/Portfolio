@@ -24,7 +24,7 @@ Two Types of Printers of 3D printers available to consumers. They are Fused Fila
 
 FFF printers use filament to create the model. Filament is a cord formed from plastic that is stored on a reel. The filament is melted and pushed through a nozzle. Nozzles have different sized openings at the tip, but are interchangeable. The size of the opening at the tip limits the amount of filament that can pass. Nozzles also conduct heat provided by a heater block. The heater block receives heat from a heater cartridge. A heater cartridge is a small cylinder that makes heat through electricity. This heat is regulated by a thermistor. Heat allows the nozzle to melt the filament to the temperature that the filament is malleable. The rate at which the filament is pushed through the nozzle is controlled by a motor called an extruder. 
 
-<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/Ender%203.png" alt="Typical Fused Filament Fabrication Printer" width="905" height="1119">
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/Ender%203.png" alt="Typical Fused Filament Fabrication Printer" width="100%" height="100%">
 
 #### How it Works
 Filament is fed into the extruder, and exits into flexible plastic tubing called a Bowden Tube. The Bowden Tube guides the filament into the hotend. The hotend is comprised of the heat block, heat break, heat sink, and the nozzle. The heat block contains the heater cartridge and the thermistor. The heat break is similar to an hourglass shape, and is designed to isolate the heat used to melt the filament. The heat sink keeps filament cool until the filament reaches the nozzle. The melted filament is then expelled onto the build plate.

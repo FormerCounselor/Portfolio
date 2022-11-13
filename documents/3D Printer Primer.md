@@ -31,7 +31,7 @@ Filament is fed into the extruder, and exits into flexible plastic tubing called
 
 To construct the model, the nozzle makes one layer at a time, laying down filament in a pre-determined path along the X and Y axis. When the current layer finishes, the printer raises the nozzle along the Z axis by one layer, then begins printing the next layer.
 
-<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/FFF%20Hotend%20Cutaway.png" alt="FFF Hotend Cutaway" width="927" height="1038">
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/FFF%20Hotend%20Cutaway.png" alt="FFF Hotend Cutaway" width="100%" height="100%">
 
 #### Unboxing and Assembly
 
@@ -56,13 +56,13 @@ Post-process, or simply post, is very simple with FFF printers. Remove the print
 
 SLA printers use UV resin and a UV LED panel to construct the model. UV resin, commonly known as just resin, hardens when exposed to UV light. SLA printers invert the model, with the build plate rising out of the vat as each layer is constructed. A vat is a wide, shallow container that holds the UV resin, with a FEP sheet as a transparent bottom that allows light to pass through a glass bottom, and cure the UV resin. A FEP sheet is a specially engineered sheet of plastic specifically for resin printers.
 
-<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/SLA%20Illustration.png" alt="Typical Stereolithography Printer" width="927" height="1038">
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/SLA%20Illustration.png" alt="Typical Stereolithography Printer" width="100%" height="100%">
 
 #### How it Works
 
 The build plate submerges itself in the resin, stopping one layer’s width above the FEP sheet. The high resolution UV LED turns on, projecting an image shaped exactly how the first layer looks. The area from the build plate to the FEP sheet is cured in a shape identical to the image projected. The newly cured layer attaches itself to the build plate during this process. The printer lifts the build plate and partially printed model a few centimeters out of the resin. The bottom of the most recently printed layer serves as the new build plate, and the process repeats until the model is finished.
 
-<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/SLA%20Build%20Process.png" alt="How SLA printers construct the model" width="980" height="1386">
+<img src="https://github.com/FormerCounselor/Portfolio/blob/main/images/SLA%20Build%20Process.png" alt="How SLA printers construct the model" width="100%" height="100%">
 
 #### Unboxing and Assembly
 Attach the vat on top of the transparent glass panel. Attach the build plate to the build arm. Pour UV resin into the vat.
